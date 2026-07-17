@@ -145,10 +145,10 @@ LEAVE
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| 📘 Software Requirement Specification (SRS) | Functional & non-functional requirements | **[View PDF](YOUR_SRS_LINK)** |
-| 📙 Software Design Description (SDD) | System design description | **[View PDF](YOUR_SDD_LINK)** |
-| 📗 Software Test Design (STD) | Software test design | **[View PDF](YOUR_STD_LINK)** |
-| 📕 Software Test Report (STR) | Software test report | **[View PDF](YOUR_STR_LINK)** |
+| 📘 Software Requirement Specification (SRS) | Functional & non-functional requirements | **[View PDF](https://drive.google.com/file/d/1xqE9oSlEFAA3MnhIIrkVxFUUGN-Oqyc7/view?usp=drive_link)** |
+| 📙 Software Design Description (SDD) | System design description | **[View PDF](https://drive.google.com/file/d/1ApZ927tb2RnOj0kYMU_SCRNmsQktkD0Y/view?usp=drive_link)** |
+| 📗 Software Test Design (STD) | Software test design | **[View PDF](https://drive.google.com/file/d/1OFqwQRk1O6AGjaQa_nTEsHMe6TUfwSLi/view?usp=drive_link)** |
+| 📕 Software Test Report (STR) | Software test report | **[View PDF](https://drive.google.com/file/d/1wHrNINfro0JBKtYFWDgW3dOY2jnVWbXm/view?usp=sharing)** |
 | 📄 User Manual | Complete user guide | **[View PDF](https://drive.google.com/file/d/1lVjmqhWuc2JreRpWRwBIUhDG3Gb_Rm8_/view?usp=sharing)** |
 | 🗄 Oracle Database Report | Oracle database design | **[View PDF](https://drive.google.com/file/d/1LzMBbbjKcUzeNFpzGpsmeJFD3-hgmPfp/view?usp=sharing)** |
 | 🎨 Human Computer Interaction (HCI) Report | UI/UX & interface design | **[View PDF](https://drive.google.com/file/d/1mCJu92yrDSqp_458_3hWbcKUj-Q4EQLU/view?usp=sharing)** |
